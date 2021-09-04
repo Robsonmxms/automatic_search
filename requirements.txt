@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.3
+lxml==4.6.3
+openpyxl==3.0.7
+tqdm==4.61.2
