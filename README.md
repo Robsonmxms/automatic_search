@@ -42,7 +42,7 @@ automatic_search.py
 
 ```
 
-# Autor
+# Author
 
 Robson Lima Lopes
 
