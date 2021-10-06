@@ -27,26 +27,21 @@ Now you can see the spreadsheet in the same folder where you saved the file [aut
 
 the image only has the first 5 links, but the algorithm generates several
 
-# How to Run the Project
+# Getting Started:
 
-```bash
+- Use the offical documentation to install Python: https://www.python.org/downloads/
 
-# Clone repository
-git clone https://github.com/Robsonmxms/automatic_search.git
+- At work terminal: 
 
-# Get Requirements
-pip install -r requirements.txt
+  ```bash
 
-#run
-automatic_search.py
+  # Clone repository
+  git clone https://github.com/Robsonmxms/automatic_search.git
 
-```
+  # Get Requirements
+  pip install -r requirements.txt
 
-# Author
+  #run
+  automatic_search.py
 
-Robson Lima Lopes
-
-[LinkedIn](https://www.linkedin.com/in/robson-lima-lopes-60616118b/)
-
-[Medium](https://medium.com/@robson.mxms)
-
+  ```
